@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-size: 1.6em;
+}
+.box {
+  box-shadow: 0 0 5px #333;
+}
+h1 {
+  color: #079992;
+}
+input {
+  font-size: 20px;
+}
